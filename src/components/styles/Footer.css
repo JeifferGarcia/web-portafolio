@@ -1,0 +1,15 @@
+.Footer {
+  display: grid;
+  background-color: #e9222c;
+  text-align: center;
+  padding: 10px;
+  color: #ffffff;
+}
+.Footer__social {
+  border-top: 1px solid #9f1118;
+  padding: 0;
+}
+.Footer__social img {
+  width: 30px;
+  margin-left: 10px;
+}
