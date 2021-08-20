@@ -1,10 +1,11 @@
-import React from 'react'
+import React from "react";
 
-import "./styles/Button.css"
+import "./styles/Button.css";
 
-const Button = (props) =>(
-  <a className="Button" href={props.location}>{props.name}</a>
-  )
+const Button = (props) => (
+  <a className='Button' href={props.location}>
+    {props.name}
+  </a>
+);
 
-
-export default Button
+export default Button;
